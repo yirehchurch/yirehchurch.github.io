@@ -21,26 +21,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://yirehchurch.github.io/blog/2013/05/26/meeting-hours/</loc>
+    <lastmod>2013-05-26T17:59:48+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://yirehchurch.github.io/404.html</loc>
-    <lastmod>2014-12-04T00:31:21+08:00</lastmod>
+    <lastmod>2014-12-07T01:26:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://yirehchurch.github.io/</loc>
-    <lastmod>2014-12-04T00:31:21+08:00</lastmod>
+    <lastmod>2014-12-07T01:26:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://yirehchurch.github.io/blog/archives/</loc>
-    <lastmod>2014-12-04T00:31:21+08:00</lastmod>
+    <lastmod>2014-12-07T01:26:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://yirehchurch.github.io/about/</loc>
-    <lastmod>2014-12-04T00:31:21+08:00</lastmod>
+    <lastmod>2014-12-07T01:26:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
