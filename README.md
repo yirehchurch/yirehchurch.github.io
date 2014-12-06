@@ -1,4 +1,0 @@
-yirehchurch
-===========
-
-yirehchurch
